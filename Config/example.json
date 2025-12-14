@@ -1,0 +1,26 @@
+[
+    {
+        "dataset_name": "name_of_your_dataset_1",
+        "train_data_path": "path_to_generated_training_data",
+        "test_path": "path_to_test_data_usually_the_data_which_generates_the_training_data",
+        "epochs": 60,
+        "train_batch_size": 32,
+        "test_batch_size": 1,
+        "reg_sparse": 0,
+        "reg": 0.5,
+        "work_mode": "local",
+        "inference_mode": "local"
+    },
+    {
+        "dataset_name": "name_of_your_dataset_2",
+        "train_data_path": "path_to_generated_training_data",
+        "test_path": "path_to_test_data_usually_the_data_which_generates_the_training_data",
+        "epochs": 60,
+        "train_batch_size": 32,
+        "test_batch_size": 1,
+        "reg_sparse": 0,
+        "reg": 0.5,
+        "work_mode": "global",
+        "inference_mode": "global"
+    }
+]
