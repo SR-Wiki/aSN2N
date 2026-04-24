@@ -4,6 +4,7 @@
 <br><br>
 [![Github commit](https://img.shields.io/github/last-commit/WeisongZhao/SN2N)](https://github.com/WeisongZhao/SN2N/)
 [![License](https://img.shields.io/badge/License-ODbL-blue.svg)](https://opendatacommons.org/licenses/odbl/1-0/)
+[![DOI](https://img.shields.io/badge/DOI-10.3724%2FPXLIFE.2025--0010-blue)](https://doi.org/10.3724/PXLIFE.2025-0010)
 <br>
 
 <p>
@@ -14,6 +15,8 @@
 <br>
 
 This repository contains the official source code for our paper, "**Artifact-suppressed and adaptive self-inspired learning denoising for super-resolution fluorescence microscopy**". This work introduces **Adaptive-SN2N**, an enhanced self-inspired learning framework for image denoising in fluorescence microscopy. Our method is specifically designed to suppress background artifacts, a common challenge in biological image analysis, by incorporating a risk-aware adaptive normalization strategy and a Gaussian-weighted overlap-tile inference mechanism.
+
+Published paper DOI: [https://doi.org/10.3724/PXLIFE.2025-0010](https://doi.org/10.3724/PXLIFE.2025-0010)
 
 <br><br><br>
 
